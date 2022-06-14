@@ -1,5 +1,5 @@
 # Intro To Operating Systems
- - OS basics with examples coded in C++
+ OS basics with examples coded in C++
 
 ## Description
 
